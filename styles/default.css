@@ -9,25 +9,30 @@ body
     padding-right:50px;
     padding-left:50px;
 }
+
 header 
 {
     text-align: center;
     background-color: pink;
 }
+
 footer
 {
     text-align: center;
     background-color: pink;
     font-style: italic;
 }
+
 nav 
 {   
 }
+
 h1
 {
     font-size:300%;
 }
-image
+
+img
 {
     padding:10px;
 }
