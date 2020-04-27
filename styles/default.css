@@ -9,3 +9,23 @@ body
     padding-right:50px;
     padding-left:50px;
 }
+header 
+{    background-color: #fafafa;
+    color:#5a5a5a;
+    font-family: 'Baloo Tamma 2', cursive;
+    margin-left: 100px; 
+    margin-right: 200px;
+    border: 2px dashed#5a5a5a;
+    padding-right:50px;
+    padding-left:50px;
+}
+nav 
+{    background-color: #fafafa;
+    color:#5a5a5a;
+    font-family: 'Baloo Tamma 2', cursive;
+    margin-left: 100px; 
+    margin-right: 200px;
+    border: 2px dashed#5a5a5a;
+    padding-right:50px;
+    padding-left:50px;
+}
