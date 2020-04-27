@@ -1,6 +1,9 @@
-body {background-color: lightpink;
-color: white;
-font-family: Tahoma, sans-serif
-margin-left: 100px; 
-margin-right: 200px;
-border: 2px dashed white;}
+body 
+{
+    background-color: lightpink;
+    color: white;
+    font-family: Tahoma, sans-serif;
+    margin-left: 100px; 
+    margin-right: 200px;
+    border: 2px dashed white;
+}
