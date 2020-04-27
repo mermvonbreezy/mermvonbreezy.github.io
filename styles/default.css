@@ -10,33 +10,20 @@ body
     padding-left:50px;
 }
 header 
-{   background-color: #fafafa;
-    color:#5a5a5a;
-    font-family: 'Baloo Tamma 2', cursive;
-    margin-left: 100px; 
-    margin-right: 200px;
-    padding-right:50px;
-    padding-left:50px;
+{
     text-align: center;
+    background-color: pink;
 }
 footer
 {
-    background-color: #fafafa;
-    color:#5a5a5a;
-    font-family: 'Baloo Tamma 2', cursive;
-    margin-left: 100px; 
-    margin-right: 200px;
-    padding-right:50px;
-    padding-left:50px;
+    text-align: center;
+    background-color: pink;
+    font-style: italic;
 }
 nav 
 {   
-    text-align: center;
-    background-color: #fafafa;
-    color:#5a5a5a;
-    font-family: 'Baloo Tamma 2', cursive;
-    margin-left: 100px; 
-    margin-right: 200px;
-    padding-right:50px;
-    padding-left:50px;
+}
+h1
+{
+    font-size:300%;
 }
